@@ -27,12 +27,12 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 - Discord Nickname: ok boomer#1151
 
 ### Completed Courses / Learning Programs :page_with_curl:
-:triangular_ruler: **Associated with SPB State Electrotechnical University:**
+**Associated with SPB State Electrotechnical University:** :triangular_ruler: 
 - Algorithms and Data Structures
 - Discrete Mathematic
 - Linear Algebra and Analytic Geometry
 - Mathematical Logic and Theory of Algorithms
 - Database Theory and Data Managment
 
-:paperclip: **Other courses:**
+**Other courses:** :paperclip: 
 - [Hacktory Web Security Certified](https://app.hacktory.ai/certificates/0c81aef1-412c-4fce-a1e0-a360876f8664)
