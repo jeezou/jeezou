@@ -9,12 +9,14 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 - :star2: Currently studying at [Rolling Scopes School](https://rs.school/) on JS / Front-End course
 - :mortar_board: Three courses of study at St. Petersburg's State Electrotechnical University ("LETI") gave me in-depth lernings of C/C++, Assembler, basics of OOP and Operating Systems
 
-### Main Skills :bookmark_tabs:
+<details>
+<summary>### Main Skills :bookmark_tabs:<summary>
 - **Web Development:** HTML, CSS3 (SCSS), JavaScript, Node.js, REST API, Express.js, MongoDB, Vue.js, Figma
 
 - **Native Programming:** Python3, C/C++
 
 - **Other Skills:** Git, Linux, SQL (PostgreSQL)
+</details>
 
 ### Contacts :iphone:
 - [GitHub Profile](https://github.com/jeezou)
