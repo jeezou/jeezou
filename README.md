@@ -10,11 +10,11 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 - :mortar_board: Three courses of study at St. Petersburg's State Electrotechnical University ("LETI") gave me in-depth lernings of C/C++, Assembler, basics of OOP and Operating Systems
 
 ### Main Skills :bookmark_tabs:
-- :crystal_ball: **Web Development:** HTML, CSS3 (SCSS), JavaScript, Node.js, REST API, Express.js, MongoDB, Vue.js, Figma
+- **Web Development:** HTML, CSS3 (SCSS), JavaScript, Node.js, REST API, Express.js, MongoDB, Vue.js, Figma
 
-- :sun_with_face: **Native Programming:** Python3, C/C++
+- **Native Programming:** Python3, C/C++
 
-- :mag_right: **Other Skills:** Git, Linux, SQL (PostgreSQL)
+- **Other Skills:** Git, Linux, SQL (PostgreSQL)
 
 ### Contacts :iphone:
 - [GitHub Profile](https://github.com/jeezou)
@@ -22,7 +22,7 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 - Telegram Nickname: @jeezou 
 - Discord Nickname: ok boomer#1151
 
-### Completed Courses / Learning Programs :page_with_curl:
+### Completed Courses / Learning Programs
 **Associated with SPB State Electrotechnical University:** :triangular_ruler: 
 - Algorithms and Data Structures
 - Discrete Mathematic
@@ -30,5 +30,5 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 - Mathematical Logic and Theory of Algorithms
 - Database Theory and Data Managment
 
-**Other courses:** :paperclip: 
+**Other courses:**
 - [Hacktory Web Security Certified](https://app.hacktory.ai/certificates/0c81aef1-412c-4fce-a1e0-a360876f8664)
