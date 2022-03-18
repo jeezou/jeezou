@@ -22,8 +22,8 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 - Telegram Nickname: @jeezou 
 - Discord Nickname: ok boomer#1151
 
-### Completed Courses / Learning Programs
-**Associated with SPB State Electrotechnical University:** :triangular_ruler: 
+### Completed Courses / Learning Programs :page_with_curl:
+**Associated with SPB State Electrotechnical University:**
 - Algorithms and Data Structures
 - Discrete Mathematic
 - Linear Algebra and Analytic Geometry
