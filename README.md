@@ -1,6 +1,3 @@
-# Sergey Kozhemyakin :computer:
-###### Beginning Front-End Developer
-
 ## Hi, there! :wave: Nice to meet you
 
 I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Petersburg Electrotechnical University "LETI" and learning web development on my own. I'll tell more about me and my skills on this page below
@@ -13,11 +10,11 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 - :mortar_board: Three courses of study at St. Petersburg's State Electrotechnical University ("LETI") gave me in-depth lernings of C/C++, Assembler, basics of OOP and Operating Systems
 
 ### Main Skills :bookmark_tabs:
-- **Web Development:** HTML, CSS3 (SCSS), JavaScript, Node.js, REST API, Express.js, MongoDB, Vue.js, Figma
+- :crystal_ball: **Web Development:** HTML, CSS3 (SCSS), JavaScript, Node.js, REST API, Express.js, MongoDB, Vue.js, Figma
 
-- **Native Programming:** Python3, C/C++
+- :sun_with_face: **Native Programming:** Python3, C/C++
 
-- **Other Skills:** Git, Linux, SQL (PostgreSQL)
+- :mag_right: **Other Skills:** Git, Linux, SQL (PostgreSQL)
 
 ### Contacts :iphone:
 - [GitHub Profile](https://github.com/jeezou)
