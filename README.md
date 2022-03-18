@@ -23,7 +23,6 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 - [GitHub Profile](https://github.com/jeezou)
 - [LinkedIn Profile](https://www.linkedin.com/in/pugocoder/)
 - Telegram Nickname: @jeezou 
-- Mobile Phone: +7 (921) 904 56 52
 - Discord Nickname: ok boomer#1151
 
 ### Completed Courses / Learning Programs :page_with_curl:
