@@ -27,10 +27,12 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 ### Completed Courses / Learning Programs :page_with_curl:
 - **Associated with SPB State Electrotechnical University:**
   - Algorithms and Data Structures
+  - Object Oriented Programming (Qt and C++)
+  - Decision Theory (Python3)
+  - Database Theory and Data Managment
+  - Mathematical Logic and Theory of Algorithms
   - Discrete Mathematic
   - Linear Algebra and Analytic Geometry
-  - Mathematical Logic and Theory of Algorithms
-  - Database Theory and Data Managment
 
 - **Other courses:**
   - [Hacktory Web Security Certified](https://app.hacktory.ai/certificates/0c81aef1-412c-4fce-a1e0-a360876f8664)
