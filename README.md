@@ -22,9 +22,9 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 - [GitHub Profile](https://github.com/jeezou)
 - [Codewars](https://www.codewars.com/users/jeezou)
 - [LinkedIn Profile](https://www.linkedin.com/in/pugocoder/)
+- [Instagram](https://www.instagram.com/sadindifferentguy/)
 - Telegram Nickname: @jeezou 
 - Discord Nickname: ok boomer#1151
-- [Inst](https://www.instagram.com/sadindifferentguy/)
 
 ### Completed Courses / Learning Programs :page_with_curl:
 - **Associated with SPB State Electrotechnical University:**
