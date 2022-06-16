@@ -18,8 +18,9 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 - **Other Skills:** Git, Linux, SQL (PostgreSQL)
 </details>
 
-### Contacts :iphone:
+### Socials :iphone:
 - [GitHub Profile](https://github.com/jeezou)
+- [Codewars](https://www.codewars.com/users/jeezou)
 - [LinkedIn Profile](https://www.linkedin.com/in/pugocoder/)
 - Telegram Nickname: @jeezou 
 - Discord Nickname: ok boomer#1151
