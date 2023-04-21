@@ -10,7 +10,7 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 
 ### Main Skills :bookmark_tabs:
   
-- **Web Development:** HTML, CSS3 (SCSS), JavaScript, Node.js, REST API, Express.js, MongoDB, Vue.js, Figma
+- **Web Development:** HTML, CSS3 (SCSS), JavaScript, Node.js, REST API, Vue.js, Figma
 
 - **Native Programming:** Python3, C/C++
 
