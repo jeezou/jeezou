@@ -6,7 +6,6 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 - :eyes: I'm currently trying to start my career as a Front-End Developer
 - :feet: Learning JavaScript, Typescript, Python, Node.js and more about web 
 - :dizzy: Really enjoy of coding, studying and exploring 
-- :star2: Currently studying at [Rolling Scopes School](https://rs.school/) on JS / Front-End course
 - :mortar_board: Three courses of study at St. Petersburg's State Electrotechnical University ("LETI") gave me in-depth lernings of C/C++, Assembler, basics of OOP and Operating Systems
 
 ### Main Skills :bookmark_tabs:
