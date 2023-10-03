@@ -11,7 +11,7 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
   
 - **Web Development:** HTML, CSS3 (SCSS), JS, Node.js, Vue.js, Nuxt.js
 
-- **Native Programming:** Python3, C/C++
+- **Native Programming:** Electron.js, some Python3 and C/C++
 
 - **Other Skills:** Git, Linux, SQL (PostgreSQL)
 </details>
