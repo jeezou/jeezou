@@ -1,6 +1,6 @@
 ## Hi, there! :wave: Nice to meet you
 
-I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Petersburg Electrotechnical University "LETI" and learning web development on my own. I'll tell more about me and my skills on this page below
+I'm from Belarus, Brest. Nowadays I'm studying on sixth course at the St. Petersburg Electrotechnical University "LETI", working in Light Digital company and learning web dev. I'll tell more about me and my skills on this page below
 
 ### Brief Info About Me :octocat:
 - :feet: Learning and practicing JavaScript, Typescript, Python, Node.js and more about web 
