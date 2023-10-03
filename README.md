@@ -18,6 +18,7 @@ I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Peter
 </details>
 
 ### Socials :iphone:
+- [GitLab Profile](https://gitlab.com/jeezou)
 - [GitHub Profile](https://github.com/jeezou)
 - [Codewars](https://www.codewars.com/users/jeezou)
 - [LinkedIn Profile](https://www.linkedin.com/in/pugocoder/)
