@@ -23,7 +23,6 @@ I'm from Belarus, Brest. I'll tell more about me and my skills on this page belo
 - [LinkedIn Profile](https://www.linkedin.com/in/pugocoder/)
 - [Instagram](https://www.instagram.com/sadindifferentguy/)
 - Telegram Nickname: @jeezou 
-- Discord Nickname: ok boomer#1151
 
 ### Completed Courses / Learning Programs :page_with_curl:
 - **Associated with SPB State Electrotechnical University:**
